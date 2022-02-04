@@ -1,0 +1,15 @@
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\bin\Debug\net6.0\PunchGame.exe
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\bin\Debug\net6.0\PunchGame.deps.json
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\bin\Debug\net6.0\PunchGame.runtimeconfig.json
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\bin\Debug\net6.0\PunchGame.dll
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\bin\Debug\net6.0\ref\PunchGame.dll
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\bin\Debug\net6.0\PunchGame.pdb
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\obj\Debug\net6.0\PunchGame.csproj.AssemblyReference.cache
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\obj\Debug\net6.0\PunchGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\obj\Debug\net6.0\PunchGame.AssemblyInfoInputs.cache
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\obj\Debug\net6.0\PunchGame.AssemblyInfo.cs
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\obj\Debug\net6.0\PunchGame.csproj.CoreCompileInputs.cache
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\obj\Debug\net6.0\PunchGame.dll
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\obj\Debug\net6.0\ref\PunchGame.dll
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\obj\Debug\net6.0\PunchGame.pdb
+C:\Users\s214339\Desktop\Github\Pogramming\Intro to programming\PunchGame\PunchGame\obj\Debug\net6.0\PunchGame.genruntimeconfig.cache

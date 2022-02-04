@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcde1c8f-8060-46a3-9f2a-f409d9859b6c": {
+      "ProjectGuid": "fcde1c8f-8060-46a3-9f2a-f409d9859b6c",
+      "DisplayName": "PunchGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
